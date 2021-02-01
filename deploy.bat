@@ -1,0 +1,1 @@
+REG IMPORT "HKLM_chrome.reg"
