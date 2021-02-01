@@ -14,7 +14,7 @@ Features include:
 - Only allow specific websites (upto 1000 can be provided)
 
 How to Deploy:
-- clone/download .REG and .bat files
+- clone/download .reg and .bat files
 - open command prompt with Admin privileges and CD to the directory where the 2 files are located
 - run "deploy.bat" and restart your browser for new settings to take effect
 
