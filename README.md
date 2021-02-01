@@ -3,7 +3,7 @@ Deploy these Google Chrome policies via Registry tweaks on your Windows machine 
 
 The benefit here is that these policies are enforced on your machine within the OS itself, as opposed to trying to filter content on the networking side (which can be effective but is much more difficult to keep airtight as workarounds are constantly available).
 
-NOTE: Always export a backup of your registry keys and settings before making any changes.
+WARNING: Always export a backup of your registry keys and settings before making any changes.
 
 Import these registry changes to create a safe and virtually inpenetrable internet environment for those who choose to stay away from inappropriate adult content and other distractions. Registry settings are updated in the following hive -> "[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]". Local machine ensures the settings apply to any user on the device itself.
 
