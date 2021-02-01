@@ -10,6 +10,7 @@ Import these registry changes to create a safe and virtually inpenetrable intern
 Features include:
 - Force Google Safe Search
 - Force Youtube Restrictions (Google conveniently provides levels of restriction for flexibility)
+- Google Image Search Blocked
 - Disable Incognito Mode
 - Only allow specific websites (upto 1000 can be provided)
 
